@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border-bottom: 1px solid cornflowerblue;
+    padding: 16px;
+    font-size: 10px;
+    background-color: #f5fafe;
+}
+
+.nav-header{
+    max-width: 1250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 15px;
+}
+
+li{
+    margin-right: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: ;
+
+}
+
+button{
+    background-color: black;
+    padding: 12px;
+    border: 0px;
+    color: #fff;
+
+}
